@@ -1,6 +1,7 @@
 module github.com/Joshcarp/grpcui
 
 require (
+	github.com/fullstorydev/grpcui v0.2.1 // indirect
 	github.com/fullstorydev/grpcurl v1.3.2
 	// needed for generating static assets with go generate
 	github.com/go-bindata/go-bindata v3.1.2+incompatible // indirect
