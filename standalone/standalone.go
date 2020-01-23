@@ -15,8 +15,8 @@ import (
 	"github.com/jhump/protoreflect/dynamic/grpcdynamic"
 	"google.golang.org/grpc"
 
-	"github.com/fullstorydev/grpcui"
-	"github.com/fullstorydev/grpcui/internal/resources/standalone"
+	"github.com/Joshcarp/grpcui"
+	"github.com/Joshcarp/grpcui/internal/resources/standalone"
 )
 
 const csrfCookieName = "_grpcui_csrf_token"

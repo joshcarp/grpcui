@@ -1,6 +1,6 @@
 // Command testsvr is a gRPC server for testing grpcui. It has a wide gRPC API
 // that exercises every combination of form inputs that the web UI can handle.
-package main
+package this
 
 import (
 	"flag"
